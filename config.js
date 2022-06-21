@@ -52,12 +52,12 @@ global.web1 = 'https://github.io/'
 global.url = 'https://chat.whatsapp.com/'
 
 //HEROKU  VARS
-global.thumburl = process.env.IMAGE || 'https://i.pinimg.com/474x/de/bd/b2/debdb24645169bf95eecd49f3144315f.jpg'
-global.packname = process.env.PACKNAME ||'ᴍɪʟʟɪᴇ-ᴍᴅ'
-global.author = process.env.AUTHOR ||'ɴᴇᴇʀᴀᴊ-x0'
-global.name = 'Millie MULTI-DEVICE'
+global.thumburl = process.env.IMAGE || 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRGPxjLJri3994W4RBYBcvINAJrq5I3jJaPQ&usqp=CAU'
+global.packname = process.env.PACKNAME ||'BUBA-ᴍᴅ'
+global.author = process.env.AUTHOR ||'gyd-x0'
+global.name = 'BUBA MULTI-DEVICE'
 global.session = process.env.SESSION_ID|| ''
-global.wm = process.env.WATERMARK|| 'ᴍɪʟʟɪᴇ-ᴍᴅ'
+global.wm = process.env.WATERMARK|| 'BUBA-ᴍᴅ'
 global.owner_name = process.env.OWNER_NAME || 'Amin_BGS'
 global.logsmsg = convertToBool(process.env.LOGS)|| false
 
@@ -71,7 +71,7 @@ function convertToBool(text, fault = 'true') {
 
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = 'neer_j_'
+global.bodlink = 'gyd0_'
 global.wait = '_Please Wait_'
 global.eror = '_Something went wrong please try again later_'
 global.dtu = 'BOT HELP GROUP'
